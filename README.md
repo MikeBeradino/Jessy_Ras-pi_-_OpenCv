@@ -1,4 +1,4 @@
-This is just a Ras-pi Jessie image with Opencv and Python pre-installed and configured. It took a few hours to get everything installed and configured, so this is a bit of a time saver. 
+Ras-pi Jessie disk image with Opencv and Python pre-installed and configured. 
 
 For details on implementing Opencv with python see this link;
 http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
